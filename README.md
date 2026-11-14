@@ -153,37 +153,3 @@ If you find this project interesting, consider giving the repository a ⭐ on Gi
 
 **PrepAI – Your AI Partner in Interview Preparation.**
 
-### 2\. Recommended GitHub repository configuration
-
-Repository name
-
-PrepAI
-
- Copy
-
-Short description
-
-An AI-powered interview preparation portal featuring technical and HR practice, resume analysis, voice-based interviews, and personalized feedback.
-
-  Copy description
-
-GitHub topics
-
-`artificial-intelligence` `interview-preparation` `react` `nodejs` `expressjs` `edtech` `resume-analysis` `ai-project`
-
-  Copy topics
-
-### 3\. My recommendation before publishing
-
-A few things will make your repository stand out:
-
-* Add actual screenshots of your application.
-
-* Include installation and setup instructions.
-
-* Add a `.env.example` file without exposing API keys.
-
-* Include your database and AI model/API details once finalized.
-
-* Add a project demo video or GIF when the application is functional.
-
